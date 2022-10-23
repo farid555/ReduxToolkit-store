@@ -3,7 +3,7 @@ import React from "react";
 const index = () => {
   return (
     <div className="mt-20">
-      <div className="bg-slate-500 py-32 py32">
+      <div className="bg-blue-300 py-32 py32">
         <div className="flex justify-between">
           <div className="mt-14 mr-4">
             <h1
